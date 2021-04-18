@@ -5,9 +5,10 @@ Project idea: to find and show the solar/renewable energy incentives in the Unit
 This is a programming for analytics project. The primary programming tool is Jupyter Notebook and python libraries. The breakdown of the project is as follows: <br/>
 
 ### Part 1 Web scraping
-www.dsireusa.org Database of State Incentives for Renewable & Efficiency
-1. Selenium 2. BeautifulSoup
-www.tesla.com/support/incentives?redirect=no Electric Vehicle & Solar Incentives
+www.dsireusa.org Database of State Incentives for Renewable & Efficiency <br/>
+1. Selenium 
+2. BeautifulSoup
+www.tesla.com/support/incentives?redirect=no Electric Vehicle & Solar Incentives <br/>
 1. Selenium
 
 ### Part 2 NumPy and Pandas
