@@ -7,7 +7,8 @@ This is a programming for analytics project. The primary programming tool is Jup
 ### Part 1 Web scraping
 www.dsireusa.org Database of State Incentives for Renewable & Efficiency <br/>
 1. Selenium 
-2. BeautifulSoup
+2. BeautifulSoup <br/>
+
 www.tesla.com/support/incentives?redirect=no Electric Vehicle & Solar Incentives <br/>
 1. Selenium
 
